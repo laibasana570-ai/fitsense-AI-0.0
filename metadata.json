@@ -1,0 +1,5 @@
+{
+  "name": " FitSense AI 0.0",
+  "description": "AI-powered exercise tracking application using Gemini 3 Pro to analyze workout videos, count reps, evaluate posture, and create personalized workout plans.",
+  "requestFramePermissions": []
+}
